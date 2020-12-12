@@ -6,5 +6,5 @@
 
 
 <h4 align="center">
-  <samp>Following the white rabbit</samp>
+  <samp>> follow the white rabbit</samp>
 </h4>
