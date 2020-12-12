@@ -3,8 +3,3 @@
 <h1 align="center">
   :rabbit2:
 </h1>
-
-
-<h4 align="center">
-  <samp>> follow the white rabbit</samp>
-</h4>
